@@ -1,4 +1,0 @@
-Gingivitis Original Dataset: 0
-caries orignal data set: 1
-tooth discoloration original dataset: 2
-ulcer original dataset: 3
