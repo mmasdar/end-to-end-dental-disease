@@ -4,6 +4,9 @@
 <br />
 <div align="center">
   <h1 align="center">Ensemble end-to-end Dental Diagnosis System</h1>
+
+  ![Tooth_GUI_1](https://github.com/mmasdar/end-to-end-dental-disease/assets/51571289/da1f823c-344f-44f3-9451-8b7947d9158f)
+  
   <p align="center">
     An ensemble end-to-end dental diagnosis system is a comprehensive Deep Learning system that integrates multiple Deep Learning Algorithms --Classification, Detection, Segmentation, and Generative Model-- to provide a complete solution for dental diagnosis. 
     <br />
